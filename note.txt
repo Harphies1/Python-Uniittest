@@ -1,0 +1,6 @@
+Create a class called BankAccount 
+
+1) Create a construcutor that takes in an integer and assigns this to be a balace property
+2) create a method called 'deposit' that takes in cash deposit amount and updates the balance accordingly
+3) create a method called 'withdraw' that takes in cash withdraw amount and updates the balance accordingly
+4) Create a subclass MiniumBalanceAccount of the BankAccount Class 
